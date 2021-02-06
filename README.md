@@ -1,6 +1,12 @@
 # boring examples
 
-All examples are on banches. Mastar is empty. 
+This branch contains PIT mutation tests usage example. 
 
-List of examples:
-- example/pit-test
+### How to run
+```gradle pitest```
+
+### Where is report 
+```` build > reports > pitest ````
+
+### Task for You
+Checkout repo and try fix all survived mutations, Good luck! 
